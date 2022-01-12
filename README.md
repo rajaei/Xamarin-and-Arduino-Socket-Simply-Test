@@ -1,4 +1,4 @@
-# Xamarin Socket Programing Ardunio
+# Xamarin Socket Programing Arduino
 
 Xamarin send simple string or array bytes message to arduino esp8266 tcp/ip socket simple test
 
@@ -8,8 +8,8 @@ Wenn Sie am Anfang des mobilen Programmier Tests mit Xamarin stehen. oder wenn S
 Deutsch ist nich meine Muter sperche, aber ich mag es.
 
 
-#Xamarin SocketPrograming Ardunio C# C++
-#Xamarin Socket Programing Esp8266 Ardunio C# C++
-#Xamarin Socket Programing Esp8266 Ardunio TCP/IP C# C++
+#Xamarin_Socket_Programing_Arduino C# C++
+#Xamarin_Socket_Programing Esp8266 Arduino C# C++
+#Xamarin_Socket_Programing Esp8266 Arduino TCP/IP C# C++
 
 Xamarin C# receive data continuously from Arduino WI-FI 
