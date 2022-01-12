@@ -6,6 +6,8 @@ Wenn Sie am Anfang des mobilen Programmier Tests mit Xamarin stehen. oder wenn S
 Deutsch ist nich meine Muter sperche, aber ich mag es.
 
 
-#Xamarin SocketPrograming Ardunio
-#Xamarin Socket Programing Esp8266 Ardunio
-#Xamarin Socket Programing Esp8266 Ardunio TCP/IP
+#Xamarin SocketPrograming Ardunio C# C++
+#Xamarin Socket Programing Esp8266 Ardunio C# C++
+#Xamarin Socket Programing Esp8266 Ardunio TCP/IP C# C++
+
+Xamarin C# receive data continuously from Arduino WI-FI 
