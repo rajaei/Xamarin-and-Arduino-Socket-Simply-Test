@@ -1,4 +1,4 @@
-# Xamarin SocketPrograming Ardunio
+# Xamarin Socket Programing Ardunio
 
 Xamarin send simple string or array bytes message to arduino esp8266 tcp/ip socket simple test
 
