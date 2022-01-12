@@ -4,3 +4,8 @@ Bite besuch mehr video auf meine Youtbe channel at www.youtube.com/user/mrrajjae
 Das ist erste und einfach für tcp/ip socket programmierung.
 Wenn Sie am Anfang des mobilen Programmier Tests mit Xamarin stehen. oder wenn Sie ToT oder RAW Hardware Geräte schecken. brauchen Sie einfach Code auf erfanung weg.
 Deutsch ist nich meine Muter sperche, aber ich mag es.
+
+
+#Xamarin SocketPrograming Ardunio
+#Xamarin Socket Programing Esp8266 Ardunio
+#Xamarin Socket Programing Esp8266 Ardunio TCP/IP
